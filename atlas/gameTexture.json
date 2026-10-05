@@ -3706,24 +3706,24 @@
 					}
 				},
 				{
-					"filename": "closeButton",
+					"filename": "UI_FFButton-hd",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 40,
-						"h": 36.800000000000004
+						"w": 76,
+						"h": 84
 					},
 					"spriteSourceSize": {
-						"x": 0,
-						"y": 0.8,
-						"w": 40,
-						"h": 36
+						"x": 16.8,
+						"y": 20.8,
+						"w": 42.400000000000006,
+						"h": 41.6
 					},
 					"frame": {
 						"x": 896.8000000000001,
 						"y": 893.6,
-						"w": 40,
-						"h": 36
+						"w": 42.400000000000006,
+						"h": 41.6
 					}
 				},
 				{
@@ -5302,24 +5302,24 @@
 					}
 				},
 				{
-					"filename": "powerTile",
+					"filename": "closeButton",
 					"rotated": false,
 					"trimmed": true,
 					"sourceSize": {
-						"w": 65.60000000000001,
-						"h": 64.8
+						"w": 40,
+						"h": 36.800000000000004
 					},
 					"spriteSourceSize": {
-						"x": 7.2,
-						"y": 7.2,
-						"w": 51.2,
-						"h": 50.400000000000006
+						"x": 0,
+						"y": 0.8,
+						"w": 40,
+						"h": 36
 					},
 					"frame": {
-						"x": 1568.8000000000002,
+						"x": 1452.8000000000002,
 						"y": 1586.4,
-						"w": 51.2,
-						"h": 50.400000000000006
+						"w": 40,
+						"h": 36
 					}
 				},
 				{
@@ -5344,6 +5344,27 @@
 					}
 				},
 				{
+					"filename": "powerTile",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 65.60000000000001,
+						"h": 64.8
+					},
+					"spriteSourceSize": {
+						"x": 7.2,
+						"y": 7.2,
+						"w": 51.2,
+						"h": 50.400000000000006
+					},
+					"frame": {
+						"x": 1568.8000000000002,
+						"y": 1580.8000000000002,
+						"w": 51.2,
+						"h": 50.400000000000006
+					}
+				},
+				{
 					"filename": "doorBanner",
 					"rotated": false,
 					"trimmed": false,
@@ -5358,7 +5379,7 @@
 						"h": 28
 					},
 					"frame": {
-						"x": 1452.8000000000002,
+						"x": 1494.4,
 						"y": 1597.6000000000001,
 						"w": 54.400000000000006,
 						"h": 28
@@ -6163,7 +6184,49 @@
 					}
 				},
 				{
+					"filename": "UI_RefreshButton-hd",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 76,
+						"h": 84
+					},
+					"spriteSourceSize": {
+						"x": 16.8,
+						"y": 20.8,
+						"w": 42.400000000000006,
+						"h": 41.6
+					},
+					"frame": {
+						"x": 192,
+						"y": 951.2,
+						"w": 42.400000000000006,
+						"h": 41.6
+					}
+				},
+				{
 					"filename": "necromancer_v3-hd",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 72,
+						"h": 72
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 72,
+						"h": 72
+					},
+					"frame": {
+						"x": 196.8,
+						"y": 994.4000000000001,
+						"w": 72,
+						"h": 72
+					}
+				},
+				{
+					"filename": "necromancer_v4-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6184,7 +6247,7 @@
 					}
 				},
 				{
-					"filename": "necromancer_v4-hd",
+					"filename": "ninja_v1-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6205,7 +6268,7 @@
 					}
 				},
 				{
-					"filename": "ninja_v1-hd",
+					"filename": "ninja_v2-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6226,7 +6289,7 @@
 					}
 				},
 				{
-					"filename": "ninja_v2-hd",
+					"filename": "paladin_v0-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6247,7 +6310,7 @@
 					}
 				},
 				{
-					"filename": "paladin_v0-hd",
+					"filename": "paladin_v1-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6268,7 +6331,7 @@
 					}
 				},
 				{
-					"filename": "paladin_v1-hd",
+					"filename": "paladin_v2-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6289,7 +6352,7 @@
 					}
 				},
 				{
-					"filename": "paladin_v2-hd",
+					"filename": "paladin_v3-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6310,7 +6373,7 @@
 					}
 				},
 				{
-					"filename": "paladin_v3-hd",
+					"filename": "phantom_v1-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6352,7 +6415,7 @@
 					}
 				},
 				{
-					"filename": "phantom_v1-hd",
+					"filename": "phantom_v2-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6373,7 +6436,7 @@
 					}
 				},
 				{
-					"filename": "phantom_v2-hd",
+					"filename": "phantom_v3-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6394,7 +6457,7 @@
 					}
 				},
 				{
-					"filename": "phantom_v3-hd",
+					"filename": "priestess_v0-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6415,7 +6478,7 @@
 					}
 				},
 				{
-					"filename": "priestess_v0-hd",
+					"filename": "priestess_v1-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6436,7 +6499,7 @@
 					}
 				},
 				{
-					"filename": "priestess_v1-hd",
+					"filename": "priestess_v2-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6457,7 +6520,7 @@
 					}
 				},
 				{
-					"filename": "priestess_v2-hd",
+					"filename": "priestess_v3-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6478,7 +6541,7 @@
 					}
 				},
 				{
-					"filename": "priestess_v3-hd",
+					"filename": "priestess_v4-hd",
 					"rotated": false,
 					"trimmed": false,
 					"sourceSize": {
@@ -6494,27 +6557,6 @@
 					"frame": {
 						"x": 217.60000000000002,
 						"y": 1544,
-						"w": 72,
-						"h": 72
-					}
-				},
-				{
-					"filename": "priestess_v4-hd",
-					"rotated": false,
-					"trimmed": false,
-					"sourceSize": {
-						"w": 72,
-						"h": 72
-					},
-					"spriteSourceSize": {
-						"x": 0,
-						"y": 0,
-						"w": 72,
-						"h": 72
-					},
-					"frame": {
-						"x": 196.8,
-						"y": 973.6,
 						"w": 72,
 						"h": 72
 					}
