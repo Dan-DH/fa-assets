@@ -1,7 +1,7 @@
 {
   "textures": [
     {
-      "image": "gameTexture-0",
+      "image": "gameTexture-0.webp",
       "format": "RGBA8888",
       "size": {
         "w": 1638,
@@ -6753,7 +6753,7 @@
       ]
     },
     {
-      "image": "gameTexture-1",
+      "image": "gameTexture-1.webp",
       "format": "RGBA8888",
       "size": {
         "w": 844,
